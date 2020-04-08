@@ -1,5 +1,8 @@
 # Work Day Scheduler
 
+**Deployed Web URL**
+https://sujatha-m.github.io/DayPlanner/Develop/
+
 ## Overview 
 An application that allows user to plan his work day schedule by adding events to 
 each hour of the day.
